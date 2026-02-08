@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Egg.md",
+                "file": "Travel Log/01. Departing Carnrice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Egg"
+              "title": "01. Departing Carnrice"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Egg.md",
+                "file": "Travel Log/01. Departing Carnrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Egg"
+              "title": "Backlinks for 01. Departing Carnrice"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Egg.md",
+                "file": "Travel Log/01. Departing Carnrice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Egg"
+              "title": "Outgoing links from 01. Departing Carnrice"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Egg.md",
+                "file": "Travel Log/01. Departing Carnrice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Egg"
+              "title": "Outline of 01. Departing Carnrice"
             }
           }
         ]
@@ -180,11 +180,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "560b0d5b2933bb46",
   "lastOpenFiles": [
+    "People/Egg.md",
+    "Travel Log/01. Departing Carnrice.md",
     "!Priorities.md",
     "Travel Log",
     "Connections/On The Journey.md",
@@ -214,7 +217,6 @@
     "Organizations/The Ar-a-mach.md",
     "Organizations",
     "People/Scrunkle.md",
-    "People/Woodpecker.md",
     "People",
     "Connections",
     "Identity",
