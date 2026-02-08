@@ -1,0 +1,17 @@
+- Clear myself of my lycanthropy
+	- I have the required potion, I need only to drink it.
+- ~~Clear [[Egg]] and [[Aronia 'Ronni' Bloodthorn]] of their curse~~
+	- [[Tyrone]] performed the necessary ritual. They are as clean of it as they can be.
+- Draconic threat
+	- There's some sort of nefarious magic happening that's meddling in the exploitation of dragons, or at least their dead bodies. This has a tie to Ss'tharack's home, though he didn't seem to know about it.
+	- Whoever this is is tracking us. We were attacked on the way in to [[Benladir]] by a pack of drake monstrosities. These spoke to us, though not with their own voice, as we fought them:
+		- "Resistance is futile child, we will find you wherever you go."
+		- "You may have these ones, but we'll keep coming, and we will get you. you will not stand in our way."
+	- [[Tyrone]] informs us this is likely connected to the recent attacks on the city. The attackers took mostly tenebral research, they seemed to already have draconic magic.
+- [[Ss'tharak]] is hunting a blue dragon, we should aid him in his hunt.
+	- Perhaps his prey is connected to the draconic threat?
+- Deal with the bear problem for the Sheffields
+	- Mama bear is dead, we found the cub with a druid in a nearby cave. They promised not to cause trouble, and we took mom for evidence.
+	- Can we help get the druid out of town? Likely the [[Invernea Townfolk]] would take her and the cub in without much question.
+- What happened to [[Kirby]]?
+	- Might have to do a prison break for my old friend from boot camp. Wonder what trouble he got himself into.

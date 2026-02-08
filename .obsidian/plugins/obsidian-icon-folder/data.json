@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHouse",
+      "LiLeafyGreen",
+      "LiSailboat",
+      "LiBookOpen",
+      "LiHammer"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "People/Aronia 'Ronni' Bloodthorn.md": "LiLeaf",
+  "People/Egg.md": "LiEgg",
+  "People/Woodpecker.md": "LiBird",
+  "People/Ss'tharak.md": "LiPersonStanding",
+  "People/Scrunkle.md": "LiPawPrint",
+  "People/Kirby.md": "LiSwords",
+  "People/Simmons.md": "LiHammer",
+  "People/Losetta.md": "LiBookOpen",
+  "People/Tyrone.md": "LiBookOpen",
+  "People/Lachlan.md": "LiSailboat",
+  "People/Carnrice Townfolk.md": "LiHouse",
+  "People/Invernea Townfolk.md": "LiLeafyGreen"
+}

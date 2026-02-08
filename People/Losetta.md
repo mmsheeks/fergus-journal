@@ -1,0 +1,1 @@
+An upper level instructor from the Arcanum Revelarum. Never got along well with Fergus due to his continued interest in Tenebris despite her scolding him away from it. Generally a well respected member of the order with reasonably high standing.

@@ -1,0 +1,1 @@
+a group of assassins / thieves guild. Originally a resistance movement group, but have since lost that mission

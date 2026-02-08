@@ -1,0 +1,1 @@
+Fergus' work partner at the Experimental Weapons Division. The two shared a lab and most of their research notes. Fergus would have done what he could to keep the key findings to himself, but it's unlikely he managed to keep Simmons from figuring it out after he left. Amicable, but they were never close. Friendly co-worker vibes.

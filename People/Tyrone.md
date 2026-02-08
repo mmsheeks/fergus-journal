@@ -1,0 +1,1 @@
+One of Losetta's colleagues, more open to Fergus' questions though still prohibitive of any practical research. Eventually wrote his letter of recommendation for the Imperial Military's Experimental Weapons Division. Friendly, but professional.

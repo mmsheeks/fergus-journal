@@ -1,0 +1,1 @@
+Living on the coast, north of Benlaidir. At first glands a middle aged man, living on his own on the coast, building rowboats, fishing and doing some small farming. just living peacefully. But you know there is more to him, he's a fence and contact for the [[The Ar-a-mach]]. He helped me escape and avoid suspicion as I left.

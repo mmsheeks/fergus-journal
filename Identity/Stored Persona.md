@@ -1,0 +1,1 @@
+Darker brown hair tone, almost black. eyes a soft green-blue instead of his characteristic bright orange. he'd appear about an inch shorter, and most importantly his half-elf ears lose their point.
